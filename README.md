@@ -1,2 +1,0 @@
-# InternpeTodolistapp
-week3
